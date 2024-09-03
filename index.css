@@ -1,0 +1,15 @@
+h1 {
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+h2 {
+text-transform: uppercase;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: oblique;
+background-color: rgb(37, 196, 148);
+}
+h3 {
+font-family: 'Times New Roman', Times, serif;
+color: rgb(255, 255, 255);
+background-color: rgb(173, 0, 109);
+}
